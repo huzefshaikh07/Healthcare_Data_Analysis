@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,Disease,Hospital_Department,Admission_Date,Discharge_Date,Treatment_Cost,Outcome
+1001,52,Female,Cancer,ICU,2023-04-06,2023-04-20,48732,Under Treatment
+1002,15,Female,Fracture,General Medicine,2023-04-15,2023-05-03,51305,Deceased
+1003,72,Male,Cancer,Orthopedics,2023-09-07,2023-09-13,182109,Recovered
+1004,61,Female,Asthma,Neurology,2023-04-27,2023-05-08,14346,Under Treatment
+1005,21,Male,COVID-19,ICU,2023-12-20,2023-12-22,5587,Deceased
+1006,83,Male,Heart Disease,ICU,2023-08-16,2023-09-04,17763,Deceased
+1007,87,Male,Heart Disease,Orthopedics,2023-03-07,2023-03-26,195237,Deceased
+1008,75,Female,Fracture,Orthopedics,2023-12-01,2023-12-06,74615,Deceased
+1009,75,Female,Cancer,General Medicine,2023-09-19,2023-10-08,172188,Recovered
+1010,88,Male,Cancer,Cardiology,2023-10-22,2023-10-24,125987,Deceased
+1011,24,Male,Diabetes,Orthopedics,2023-08-31,2023-09-10,96353,Under Treatment
+1012,3,Male,COVID-19,Orthopedics,2023-07-05,2023-07-07,100648,Recovered
+1013,22,Male,Asthma,Neurology,2023-09-03,2023-09-14,30556,Deceased
+1014,53,Female,Heart Disease,ICU,2023-05-05,2023-05-23,64042,Recovered
+1015,2,Female,Diabetes,Cardiology,2023-09-25,2023-10-10,23099,Under Treatment
+1016,88,Male,Diabetes,Neurology,2023-05-11,2023-05-20,114089,Deceased
+1017,30,Male,Fracture,General Medicine,2023-08-25,2023-09-13,181168,Under Treatment
+1018,38,Female,Heart Disease,General Medicine,2023-01-18,2023-01-27,149302,Deceased
+1019,2,Female,Fracture,Orthopedics,2023-02-09,2023-02-12,165081,Deceased
+1020,64,Male,Asthma,Orthopedics,2023-01-21,2023-01-30,38866,Deceased
+1021,60,Male,Diabetes,General Medicine,2023-08-13,2023-08-27,110400,Deceased
+1022,21,Male,Diabetes,Orthopedics,2023-12-21,2024-01-09,89246,Deceased
+1023,33,Female,COVID-19,Cardiology,2023-10-09,2023-10-16,81975,Recovered
+1024,76,Female,Asthma,Orthopedics,2023-01-08,2023-01-24,177927,Deceased
+1025,58,Female,Diabetes,ICU,2023-04-10,2023-04-26,86557,Deceased
+1026,22,Male,Asthma,Orthopedics,2023-08-28,2023-08-29,142488,Recovered
+1027,89,Male,Heart Disease,Neurology,2023-03-28,2023-04-01,77516,Recovered
+1028,49,Female,Cancer,Cardiology,2023-10-25,2023-10-29,191987,Recovered
+1029,59,Female,Diabetes,Neurology,2023-01-14,2023-01-21,154130,Recovered
+1030,42,Male,COVID-19,Neurology,2023-11-30,2023-12-08,176790,Recovered
+1031,60,Female,Heart Disease,ICU,2023-01-02,2023-01-19,37602,Recovered
+1032,80,Female,Asthma,Cardiology,2023-10-20,2023-10-25,194139,Deceased
+1033,15,Male,Fracture,Cardiology,2023-11-21,2023-11-28,163588,Deceased
+1034,62,Female,Heart Disease,Cardiology,2023-02-10,2023-02-14,134295,Under Treatment
+1035,62,Male,Diabetes,Cardiology,2023-11-14,2023-11-20,92969,Deceased
+1036,47,Male,Asthma,Cardiology,2023-11-12,2023-11-19,137161,Deceased
+1037,62,Male,Cancer,ICU,2023-04-21,2023-05-09,173418,Recovered
+1038,51,Male,Heart Disease,Orthopedics,2023-01-14,2023-01-19,146559,Recovered
+1039,55,Male,Diabetes,Neurology,2023-08-19,2023-08-22,5155,Deceased
+1040,64,Male,COVID-19,Cardiology,2023-03-25,2023-04-01,128950,Under Treatment
+1041,3,Male,Fracture,Orthopedics,2023-05-10,2023-05-24,72494,Recovered
+1042,51,Female,Asthma,Orthopedics,2023-08-19,2023-08-26,81229,Deceased
+1043,7,Male,Heart Disease,Neurology,2023-11-22,2023-11-27,109648,Deceased
+1044,21,Male,Heart Disease,ICU,2023-05-25,2023-05-30,43547,Under Treatment
+1045,73,Female,Cancer,General Medicine,2023-12-11,2023-12-13,33795,Under Treatment
+1046,39,Female,Cancer,General Medicine,2023-01-28,2023-02-03,191368,Recovered
+1047,18,Female,COVID-19,Orthopedics,2023-03-07,2023-03-22,26447,Under Treatment
+1048,4,Male,Fracture,Neurology,2023-06-12,2023-06-22,172670,Deceased
+1049,89,Female,COVID-19,General Medicine,2023-08-17,2023-08-24,177886,Deceased
+1050,60,Male,Diabetes,Orthopedics,2023-09-18,2023-09-23,92960,Under Treatment
+1051,14,Male,Diabetes,ICU,2023-06-13,2023-06-14,68278,Under Treatment
+1052,9,Male,COVID-19,General Medicine,2023-10-28,2023-11-10,60077,Under Treatment
+1053,53,Male,Fracture,Orthopedics,2023-10-30,2023-11-17,117782,Under Treatment
+1054,2,Female,COVID-19,Orthopedics,2023-10-14,2023-10-27,107932,Recovered
+1055,84,Female,Fracture,Cardiology,2023-01-10,2023-01-28,145600,Under Treatment
+1056,60,Male,Fracture,ICU,2023-07-14,2023-07-19,186172,Recovered
+1057,71,Male,Asthma,Cardiology,2023-04-28,2023-05-11,114869,Deceased
+1058,44,Male,Fracture,Neurology,2023-09-27,2023-10-01,144251,Under Treatment
+1059,8,Female,Cancer,Cardiology,2023-03-21,2023-04-07,53781,Recovered
+1060,47,Male,Fracture,Cardiology,2023-04-03,2023-04-06,191339,Under Treatment
+1061,35,Male,Fracture,General Medicine,2023-09-23,2023-10-10,160024,Deceased
+1062,78,Female,Fracture,Orthopedics,2023-11-28,2023-12-09,58798,Deceased
+1063,81,Female,Diabetes,ICU,2023-12-16,2023-12-20,103696,Deceased
+1064,36,Male,Cancer,Cardiology,2023-12-27,2023-12-29,55939,Under Treatment
+1065,50,Female,Cancer,ICU,2023-09-14,2023-09-30,34516,Under Treatment
+1066,4,Female,COVID-19,Cardiology,2023-05-13,2023-05-31,192598,Recovered
+1067,2,Male,Asthma,Neurology,2023-10-03,2023-10-11,146521,Deceased
+1068,6,Female,Fracture,Cardiology,2023-09-21,2023-09-24,55290,Under Treatment
+1069,54,Male,Heart Disease,General Medicine,2023-06-20,2023-06-29,131688,Deceased
+1070,4,Female,Asthma,Orthopedics,2023-01-01,2023-01-07,91661,Deceased
+1071,54,Male,Asthma,Neurology,2023-11-09,2023-11-19,77954,Recovered
+1072,63,Male,Cancer,Cardiology,2023-03-05,2023-03-15,27746,Recovered
+1073,18,Male,Asthma,ICU,2023-10-11,2023-10-24,72990,Recovered
+1074,44,Female,Fracture,Neurology,2023-05-01,2023-05-18,63810,Recovered
+1075,34,Male,Fracture,Neurology,2023-04-17,2023-04-26,123362,Deceased
+1076,74,Female,Diabetes,Cardiology,2023-06-24,2023-07-11,151295,Recovered
+1077,62,Male,Fracture,Neurology,2023-07-23,2023-08-01,138669,Recovered
+1078,14,Male,Fracture,ICU,2023-06-14,2023-06-23,7659,Recovered
+1079,48,Female,Cancer,Neurology,2023-11-01,2023-11-02,91516,Recovered
+1080,15,Male,Fracture,ICU,2023-04-30,2023-05-02,79567,Deceased
+1081,72,Male,Diabetes,Cardiology,2023-02-13,2023-03-01,20037,Recovered
+1082,78,Female,Heart Disease,Orthopedics,2023-11-08,2023-11-09,131498,Deceased
+1083,87,Male,Cancer,Neurology,2023-06-05,2023-06-15,182810,Under Treatment
+1084,62,Male,Heart Disease,Orthopedics,2023-07-26,2023-08-13,17109,Deceased
+1085,40,Male,Cancer,ICU,2023-04-18,2023-04-26,27010,Deceased
+1086,85,Male,COVID-19,Neurology,2023-09-08,2023-09-19,13787,Recovered
+1087,80,Female,Asthma,General Medicine,2023-11-30,2023-12-02,144544,Under Treatment
+1088,82,Female,COVID-19,Orthopedics,2023-05-10,2023-05-18,159455,Under Treatment
+1089,53,Male,Fracture,Neurology,2023-10-20,2023-10-28,66709,Under Treatment
+1090,24,Female,Heart Disease,Orthopedics,2023-01-20,2023-02-06,39518,Under Treatment
+1091,26,Male,Fracture,Neurology,2023-10-09,2023-10-24,58909,Deceased
+1092,89,Female,Asthma,Cardiology,2023-10-12,2023-10-29,23351,Under Treatment
+1093,60,Male,Cancer,Orthopedics,2023-01-01,2023-01-14,189402,Deceased
+1094,41,Male,Asthma,General Medicine,2023-04-29,2023-05-18,20282,Deceased
+1095,29,Male,Diabetes,General Medicine,2023-02-04,2023-02-09,157850,Deceased
+1096,15,Male,Asthma,ICU,2023-07-17,2023-07-29,160336,Under Treatment
+1097,45,Male,Diabetes,Neurology,2023-09-02,2023-09-03,195747,Recovered
+1098,65,Male,Asthma,Orthopedics,2023-02-28,2023-03-05,10075,Recovered
+1099,89,Female,Diabetes,ICU,2023-11-21,2023-11-29,184526,Under Treatment
+1100,71,Male,Heart Disease,Orthopedics,2023-06-10,2023-06-23,33365,Recovered
+1101,9,Female,Fracture,Neurology,2023-06-28,2023-07-06,184272,Recovered
+1102,88,Male,Fracture,General Medicine,2023-07-25,2023-08-05,16002,Deceased
+1103,1,Female,COVID-19,Cardiology,2023-01-12,2023-01-13,18947,Deceased
+1104,8,Female,Fracture,General Medicine,2023-10-03,2023-10-16,99840,Under Treatment
+1105,88,Female,Cancer,ICU,2023-06-30,2023-07-19,121219,Under Treatment
+1106,63,Male,Asthma,Cardiology,2023-08-30,2023-09-02,83610,Recovered
+1107,11,Male,COVID-19,ICU,2023-08-04,2023-08-21,57142,Deceased
+1108,81,Female,Cancer,Neurology,2023-09-08,2023-09-13,61307,Under Treatment
+1109,8,Male,Cancer,Cardiology,2023-10-26,2023-11-03,140565,Under Treatment
+1110,35,Female,Diabetes,ICU,2023-05-06,2023-05-20,55085,Under Treatment
+1111,35,Male,Fracture,Neurology,2023-08-05,2023-08-09,39228,Under Treatment
+1112,33,Female,Heart Disease,General Medicine,2023-11-02,2023-11-13,187947,Under Treatment
+1113,5,Female,Heart Disease,Neurology,2023-10-12,2023-10-27,167727,Under Treatment
+1114,41,Male,COVID-19,Orthopedics,2023-07-04,2023-07-23,48472,Recovered
+1115,28,Female,Heart Disease,Neurology,2023-02-08,2023-02-15,54437,Deceased
+1116,7,Male,Asthma,Neurology,2023-08-11,2023-08-30,185488,Deceased
+1117,73,Female,Heart Disease,Orthopedics,2023-07-03,2023-07-22,64711,Under Treatment
+1118,72,Female,COVID-19,ICU,2023-06-27,2023-07-08,142888,Deceased
+1119,12,Male,Heart Disease,ICU,2023-10-21,2023-10-26,82175,Deceased
+1120,34,Male,Asthma,Neurology,2023-12-06,2023-12-11,69307,Deceased
+1121,33,Male,Diabetes,Orthopedics,2023-05-31,2023-06-08,51733,Under Treatment
+1122,48,Female,COVID-19,Orthopedics,2023-05-06,2023-05-16,133202,Under Treatment
+1123,23,Male,Diabetes,General Medicine,2023-10-28,2023-11-03,100028,Deceased
+1124,62,Female,Diabetes,ICU,2023-11-04,2023-11-19,147312,Deceased
+1125,88,Female,Diabetes,Cardiology,2023-12-02,2023-12-18,97493,Under Treatment
+1126,37,Male,Cancer,ICU,2023-08-22,2023-09-08,130149,Recovered
+1127,44,Male,Fracture,ICU,2023-01-08,2023-01-16,168834,Deceased
+1128,86,Female,Cancer,General Medicine,2023-12-07,2023-12-15,13259,Recovered
+1129,35,Female,Fracture,Cardiology,2023-05-09,2023-05-18,186211,Deceased
+1130,65,Male,Diabetes,General Medicine,2023-09-21,2023-09-23,133775,Recovered
+1131,47,Male,COVID-19,Cardiology,2023-06-06,2023-06-21,19849,Recovered
+1132,78,Male,Fracture,Neurology,2023-12-18,2024-01-05,86768,Recovered
+1133,3,Male,Asthma,Cardiology,2023-12-24,2023-12-27,111108,Under Treatment
+1134,1,Male,Asthma,General Medicine,2023-01-05,2023-01-22,94709,Recovered
+1135,5,Female,Heart Disease,ICU,2023-03-27,2023-03-31,59869,Recovered
+1136,14,Female,Fracture,Cardiology,2023-06-24,2023-06-28,131888,Recovered
+1137,27,Female,COVID-19,Cardiology,2023-10-17,2023-10-31,68095,Deceased
+1138,9,Female,Cancer,Orthopedics,2023-07-12,2023-07-21,122886,Recovered
+1139,79,Male,Diabetes,ICU,2023-11-07,2023-11-16,75910,Deceased
+1140,15,Male,Heart Disease,Neurology,2023-04-29,2023-05-17,28567,Recovered
+1141,42,Male,Asthma,General Medicine,2023-08-06,2023-08-16,40292,Recovered
+1142,77,Female,Cancer,Neurology,2023-04-24,2023-04-28,79813,Under Treatment
+1143,51,Female,Cancer,ICU,2023-05-25,2023-06-06,102136,Deceased
+1144,63,Male,Diabetes,Cardiology,2023-01-26,2023-02-03,56631,Recovered
+1145,52,Male,Fracture,Cardiology,2023-05-16,2023-05-18,14885,Deceased
+1146,4,Female,Asthma,ICU,2023-10-30,2023-11-12,195731,Deceased
+1147,23,Female,COVID-19,Cardiology,2023-08-20,2023-09-05,190378,Under Treatment
+1148,15,Male,Cancer,Cardiology,2023-03-17,2023-03-19,71314,Under Treatment
+1149,43,Male,Diabetes,Cardiology,2023-11-24,2023-12-05,70087,Under Treatment
+1150,29,Female,COVID-19,General Medicine,2023-12-11,2023-12-21,165237,Under Treatment
+1151,36,Male,Fracture,General Medicine,2023-10-29,2023-11-13,195001,Under Treatment
+1152,13,Male,Asthma,Orthopedics,2023-10-16,2023-11-02,100998,Under Treatment
+1153,32,Male,Fracture,Neurology,2023-01-01,2023-01-09,54812,Under Treatment
+1154,71,Female,Cancer,ICU,2023-05-27,2023-06-14,186572,Under Treatment
+1155,59,Female,COVID-19,ICU,2023-10-14,2023-10-23,63643,Recovered
+1156,86,Female,COVID-19,ICU,2023-05-22,2023-05-30,49900,Deceased
+1157,28,Female,COVID-19,Orthopedics,2023-02-22,2023-03-08,179018,Under Treatment
+1158,66,Female,Cancer,General Medicine,2023-10-31,2023-11-18,143923,Under Treatment
+1159,42,Female,Cancer,Orthopedics,2023-03-10,2023-03-22,21288,Deceased
+1160,45,Female,Fracture,ICU,2023-12-27,2024-01-15,77692,Recovered
+1161,62,Male,Heart Disease,Neurology,2023-03-31,2023-04-14,143440,Deceased
+1162,57,Male,Fracture,Cardiology,2023-08-08,2023-08-25,90436,Deceased
+1163,6,Male,Asthma,General Medicine,2023-07-11,2023-07-14,51403,Under Treatment
+1164,28,Male,Diabetes,General Medicine,2023-03-04,2023-03-11,96170,Deceased
+1165,28,Male,COVID-19,Orthopedics,2023-03-14,2023-03-31,14168,Deceased
+1166,44,Male,Heart Disease,General Medicine,2023-06-10,2023-06-22,54879,Under Treatment
+1167,84,Male,Diabetes,ICU,2023-06-18,2023-06-27,64871,Under Treatment
+1168,30,Female,Heart Disease,ICU,2023-03-30,2023-04-14,37174,Under Treatment
+1169,62,Female,Fracture,Orthopedics,2023-06-25,2023-07-13,142653,Under Treatment
+1170,75,Male,Cancer,ICU,2023-09-26,2023-10-09,115155,Deceased
+1171,89,Male,COVID-19,Neurology,2023-03-14,2023-03-22,76853,Deceased
+1172,62,Female,Fracture,Orthopedics,2023-09-02,2023-09-16,69046,Recovered
+1173,1,Male,Diabetes,Neurology,2023-03-18,2023-03-26,54678,Recovered
+1174,27,Male,Diabetes,Cardiology,2023-06-08,2023-06-22,31649,Deceased
+1175,62,Female,Diabetes,Neurology,2023-11-20,2023-11-27,132795,Recovered
+1176,77,Male,Diabetes,Cardiology,2023-04-08,2023-04-20,93668,Deceased
+1177,3,Female,Diabetes,Cardiology,2023-04-12,2023-04-23,150639,Recovered
+1178,70,Male,Heart Disease,Neurology,2023-05-12,2023-05-23,94906,Under Treatment
+1179,72,Female,Fracture,Orthopedics,2023-04-12,2023-04-25,101019,Recovered
+1180,27,Female,COVID-19,ICU,2023-01-19,2023-02-06,198016,Under Treatment
+1181,9,Female,Cancer,ICU,2023-03-23,2023-03-25,83002,Under Treatment
+1182,62,Male,Cancer,Cardiology,2023-10-06,2023-10-21,33803,Under Treatment
+1183,37,Female,Fracture,Cardiology,2023-12-05,2023-12-23,154302,Under Treatment
+1184,51,Male,Fracture,Orthopedics,2023-12-31,2024-01-15,153934,Recovered
+1185,44,Male,Cancer,General Medicine,2023-11-27,2023-12-16,179427,Deceased
+1186,24,Male,Cancer,Neurology,2023-05-09,2023-05-21,167331,Under Treatment
+1187,79,Male,Heart Disease,Cardiology,2023-12-10,2023-12-23,35795,Recovered
+1188,59,Female,Asthma,ICU,2023-11-06,2023-11-17,13770,Under Treatment
+1189,32,Female,COVID-19,Orthopedics,2023-03-30,2023-04-04,16093,Recovered
+1190,88,Male,Diabetes,Neurology,2023-08-01,2023-08-02,182643,Recovered
+1191,52,Male,Asthma,Orthopedics,2023-05-23,2023-05-26,136265,Recovered
+1192,62,Female,Fracture,Neurology,2023-03-06,2023-03-25,105311,Deceased
+1193,58,Male,Cancer,Neurology,2023-03-17,2023-03-24,22569,Recovered
+1194,52,Female,Asthma,Cardiology,2023-07-18,2023-07-30,16190,Recovered
+1195,12,Male,COVID-19,Orthopedics,2023-05-23,2023-06-07,67824,Deceased
+1196,39,Male,Fracture,Orthopedics,2023-11-12,2023-11-17,178824,Deceased
+1197,2,Female,Diabetes,ICU,2023-04-03,2023-04-18,168399,Recovered
+1198,3,Male,Diabetes,ICU,2023-11-01,2023-11-09,47070,Deceased
+1199,56,Female,COVID-19,Cardiology,2023-08-12,2023-08-22,45197,Under Treatment
+1200,81,Male,COVID-19,Cardiology,2023-10-18,2023-11-03,7261,Under Treatment
+1201,59,Male,Cancer,General Medicine,2023-04-12,2023-04-20,162584,Deceased
+1202,2,Male,Diabetes,ICU,2023-09-24,2023-09-25,142788,Deceased
+1203,2,Female,Fracture,Neurology,2023-12-21,2024-01-02,91795,Recovered
+1204,54,Male,Asthma,Orthopedics,2023-04-20,2023-04-25,33933,Deceased
+1205,87,Male,Fracture,Cardiology,2023-11-26,2023-11-29,140450,Recovered
+1206,1,Male,Heart Disease,Orthopedics,2023-09-22,2023-09-23,45583,Under Treatment
+1207,19,Male,Heart Disease,Orthopedics,2023-01-03,2023-01-07,117082,Deceased
+1208,2,Female,COVID-19,General Medicine,2023-03-26,2023-04-03,90371,Recovered
+1209,53,Female,Cancer,ICU,2023-10-09,2023-10-12,165105,Recovered
+1210,44,Male,Heart Disease,Cardiology,2023-11-24,2023-12-04,160072,Under Treatment
+1211,32,Female,Diabetes,Orthopedics,2023-10-31,2023-11-02,116032,Deceased
+1212,70,Male,Fracture,Cardiology,2023-04-27,2023-05-08,47604,Under Treatment
+1213,32,Male,Fracture,Neurology,2023-08-09,2023-08-19,100074,Recovered
+1214,68,Male,COVID-19,General Medicine,2023-06-03,2023-06-17,78869,Recovered
+1215,55,Female,Asthma,Neurology,2023-06-02,2023-06-09,10410,Deceased
+1216,75,Female,COVID-19,Cardiology,2023-01-12,2023-01-14,88375,Recovered
+1217,56,Female,Asthma,Cardiology,2023-05-13,2023-05-22,192116,Deceased
+1218,17,Female,COVID-19,ICU,2023-10-31,2023-11-16,199387,Under Treatment
+1219,38,Female,COVID-19,Orthopedics,2023-10-20,2023-11-02,101055,Deceased
+1220,24,Female,COVID-19,Orthopedics,2023-10-27,2023-11-05,142868,Deceased
+1221,69,Female,Asthma,Neurology,2023-08-16,2023-08-20,91716,Recovered
+1222,70,Female,Asthma,General Medicine,2023-09-28,2023-10-08,59245,Recovered
+1223,86,Female,COVID-19,Orthopedics,2023-02-12,2023-02-24,48056,Deceased
+1224,11,Male,Heart Disease,ICU,2023-12-09,2023-12-26,153781,Recovered
+1225,16,Female,Cancer,Neurology,2023-11-22,2023-12-06,63557,Recovered
+1226,73,Female,Cancer,Neurology,2023-10-29,2023-11-12,22543,Recovered
+1227,59,Female,Cancer,ICU,2023-12-30,2024-01-01,173490,Deceased
+1228,70,Female,Asthma,General Medicine,2023-01-21,2023-02-01,101038,Recovered
+1229,80,Female,Asthma,ICU,2023-04-17,2023-05-03,152796,Deceased
+1230,3,Female,Heart Disease,General Medicine,2023-12-02,2023-12-21,8828,Recovered
+1231,20,Female,Cancer,ICU,2023-10-30,2023-11-05,121656,Under Treatment
+1232,59,Female,Cancer,ICU,2023-04-27,2023-05-16,22087,Recovered
+1233,36,Female,COVID-19,Cardiology,2023-05-04,2023-05-09,148677,Recovered
+1234,19,Female,Asthma,Neurology,2023-10-08,2023-10-12,36337,Deceased
+1235,67,Female,Cancer,ICU,2023-10-19,2023-11-03,141554,Deceased
+1236,19,Male,Fracture,ICU,2023-07-22,2023-07-26,70333,Recovered
+1237,20,Male,Heart Disease,Orthopedics,2023-02-20,2023-03-02,187024,Under Treatment
+1238,71,Female,Fracture,Neurology,2023-09-28,2023-10-01,141535,Recovered
+1239,52,Female,Fracture,Orthopedics,2023-11-20,2023-11-25,75448,Recovered
+1240,33,Male,Heart Disease,Neurology,2023-10-04,2023-10-10,9648,Under Treatment
+1241,40,Female,Fracture,Orthopedics,2023-05-21,2023-05-29,135576,Deceased
+1242,39,Male,Cancer,ICU,2023-10-02,2023-10-09,38623,Recovered
+1243,82,Male,Asthma,ICU,2023-10-17,2023-10-27,195228,Deceased
+1244,1,Male,Heart Disease,Cardiology,2023-11-30,2023-12-06,40634,Deceased
+1245,11,Male,COVID-19,Orthopedics,2023-02-21,2023-03-07,180674,Under Treatment
+1246,57,Male,Fracture,General Medicine,2023-01-27,2023-01-31,119598,Under Treatment
+1247,89,Female,Heart Disease,Cardiology,2023-06-06,2023-06-19,54334,Deceased
+1248,50,Male,Diabetes,Orthopedics,2023-08-27,2023-09-13,73648,Recovered
+1249,23,Female,Diabetes,Orthopedics,2023-06-05,2023-06-12,27054,Deceased
+1250,31,Female,Asthma,Cardiology,2023-10-18,2023-10-22,75028,Recovered
+1251,42,Male,Cancer,ICU,2023-05-16,2023-05-30,27207,Recovered
+1252,7,Male,Asthma,Orthopedics,2023-05-24,2023-05-27,86554,Under Treatment
+1253,16,Female,Asthma,ICU,2023-04-16,2023-04-21,157458,Recovered
+1254,60,Male,Asthma,Cardiology,2023-06-07,2023-06-23,88276,Recovered
+1255,2,Male,Asthma,ICU,2023-05-26,2023-05-30,195590,Deceased
+1256,1,Female,COVID-19,Neurology,2023-01-02,2023-01-04,57781,Under Treatment
+1257,48,Female,COVID-19,General Medicine,2023-03-18,2023-04-05,188852,Recovered
+1258,12,Male,Heart Disease,Orthopedics,2023-05-12,2023-05-31,197512,Recovered
+1259,69,Female,Diabetes,General Medicine,2023-03-31,2023-04-19,180271,Under Treatment
+1260,37,Male,Asthma,ICU,2023-12-11,2023-12-28,66035,Deceased
+1261,32,Male,Heart Disease,Orthopedics,2023-12-16,2023-12-30,13210,Under Treatment
+1262,9,Male,Diabetes,ICU,2023-09-20,2023-10-09,49363,Under Treatment
+1263,19,Female,Fracture,Neurology,2023-12-17,2023-12-30,83279,Recovered
+1264,48,Female,Cancer,Cardiology,2023-04-18,2023-04-30,196420,Recovered
+1265,80,Female,COVID-19,Orthopedics,2023-03-15,2023-03-21,191356,Deceased
+1266,3,Female,Fracture,Neurology,2023-02-08,2023-02-12,158504,Recovered
+1267,20,Female,Diabetes,Neurology,2023-06-08,2023-06-27,191470,Recovered
+1268,24,Male,Fracture,Orthopedics,2023-03-12,2023-03-28,139393,Under Treatment
+1269,54,Male,Cancer,ICU,2023-11-08,2023-11-21,86348,Recovered
+1270,33,Male,Diabetes,Neurology,2023-08-29,2023-09-02,173455,Deceased
+1271,24,Male,Fracture,General Medicine,2023-10-25,2023-11-11,118816,Under Treatment
+1272,75,Female,COVID-19,Neurology,2023-02-05,2023-02-06,128053,Deceased
+1273,72,Male,COVID-19,ICU,2023-03-25,2023-04-12,188965,Under Treatment
+1274,36,Female,Heart Disease,ICU,2023-09-20,2023-10-07,171892,Recovered
+1275,38,Male,Fracture,General Medicine,2023-11-06,2023-11-21,71262,Under Treatment
+1276,84,Female,Asthma,Neurology,2023-06-21,2023-07-02,139832,Under Treatment
+1277,89,Female,Fracture,ICU,2023-06-22,2023-07-05,158262,Recovered
+1278,25,Male,Diabetes,Orthopedics,2023-12-28,2023-12-29,72411,Recovered
+1279,18,Male,Diabetes,Cardiology,2023-02-16,2023-03-05,28377,Deceased
+1280,82,Male,Fracture,Cardiology,2023-05-21,2023-05-27,182809,Deceased
+1281,66,Male,Cancer,Cardiology,2023-04-28,2023-05-02,43211,Recovered
+1282,54,Female,COVID-19,Neurology,2023-10-04,2023-10-20,8744,Recovered
+1283,35,Male,Diabetes,General Medicine,2023-08-02,2023-08-17,29995,Recovered
+1284,80,Male,COVID-19,ICU,2023-08-08,2023-08-23,153049,Under Treatment
+1285,61,Female,Diabetes,Orthopedics,2023-01-26,2023-02-01,39542,Under Treatment
+1286,41,Male,Heart Disease,Orthopedics,2023-01-09,2023-01-24,15651,Under Treatment
+1287,33,Male,Asthma,Neurology,2023-09-28,2023-10-12,104239,Recovered
+1288,68,Male,Diabetes,Cardiology,2023-01-10,2023-01-21,83931,Deceased
+1289,33,Male,COVID-19,Neurology,2023-05-01,2023-05-08,107112,Recovered
+1290,14,Male,Heart Disease,General Medicine,2023-05-05,2023-05-14,21715,Under Treatment
+1291,21,Female,Diabetes,General Medicine,2023-06-19,2023-07-05,180481,Under Treatment
+1292,48,Male,Cancer,ICU,2023-03-13,2023-03-18,160378,Recovered
+1293,20,Male,Asthma,ICU,2023-06-01,2023-06-11,155158,Recovered
+1294,8,Male,Diabetes,General Medicine,2023-07-27,2023-08-14,150448,Under Treatment
+1295,7,Male,Heart Disease,General Medicine,2023-02-18,2023-02-21,66350,Under Treatment
+1296,67,Male,Cancer,General Medicine,2023-06-03,2023-06-16,76425,Under Treatment
+1297,17,Female,Fracture,Neurology,2023-12-13,2023-12-24,172708,Recovered
+1298,33,Male,Heart Disease,General Medicine,2023-10-20,2023-11-06,91120,Under Treatment
+1299,48,Female,Heart Disease,Orthopedics,2023-03-09,2023-03-22,119889,Under Treatment
+1300,76,Female,Cancer,Cardiology,2023-02-19,2023-02-25,187721,Deceased
+1301,59,Male,Heart Disease,General Medicine,2023-06-01,2023-06-18,170682,Recovered
+1302,86,Male,Cancer,Cardiology,2023-01-19,2023-02-01,146130,Deceased
+1303,22,Male,Diabetes,Neurology,2023-04-10,2023-04-29,79637,Deceased
+1304,30,Male,Cancer,Cardiology,2023-03-01,2023-03-20,75194,Under Treatment
+1305,38,Female,Cancer,Neurology,2023-06-16,2023-06-26,81917,Recovered
+1306,51,Male,Asthma,Orthopedics,2023-07-21,2023-07-24,69200,Under Treatment
+1307,54,Male,Cancer,Neurology,2023-12-11,2023-12-25,110848,Recovered
+1308,8,Male,Cancer,Neurology,2023-05-26,2023-06-14,111022,Deceased
+1309,27,Male,Fracture,ICU,2023-06-13,2023-06-18,182691,Recovered
+1310,27,Male,Diabetes,General Medicine,2023-08-30,2023-09-04,153226,Under Treatment
+1311,21,Male,Asthma,General Medicine,2023-03-10,2023-03-27,155611,Under Treatment
+1312,30,Female,Fracture,Orthopedics,2023-06-24,2023-07-04,65058,Under Treatment
+1313,28,Female,COVID-19,Orthopedics,2023-02-18,2023-02-23,67068,Recovered
+1314,64,Male,Diabetes,General Medicine,2023-04-18,2023-04-22,104932,Deceased
+1315,69,Male,Diabetes,ICU,2023-08-14,2023-08-20,166445,Deceased
+1316,61,Male,COVID-19,General Medicine,2023-06-10,2023-06-14,169226,Recovered
+1317,48,Female,Cancer,ICU,2023-04-29,2023-05-06,142103,Under Treatment
+1318,19,Male,Fracture,Orthopedics,2023-05-29,2023-06-05,27785,Deceased
+1319,4,Female,Heart Disease,Cardiology,2023-05-30,2023-06-17,164741,Under Treatment
+1320,35,Male,Asthma,Orthopedics,2023-10-20,2023-10-23,99475,Recovered
+1321,64,Male,Heart Disease,Orthopedics,2023-05-23,2023-05-24,7282,Under Treatment
+1322,49,Male,COVID-19,Neurology,2023-06-09,2023-06-13,170696,Deceased
+1323,17,Male,Diabetes,Neurology,2023-01-11,2023-01-17,184510,Deceased
+1324,44,Female,Diabetes,Neurology,2023-05-18,2023-05-27,72534,Under Treatment
+1325,30,Female,Asthma,Neurology,2023-03-19,2023-04-02,167777,Recovered
+1326,46,Male,Diabetes,ICU,2023-03-18,2023-03-30,174316,Under Treatment
+1327,6,Male,Diabetes,General Medicine,2023-09-11,2023-09-15,79964,Recovered
+1328,37,Female,Asthma,Cardiology,2023-09-15,2023-09-27,173509,Under Treatment
+1329,24,Female,Fracture,Orthopedics,2023-11-16,2023-11-26,124006,Deceased
+1330,46,Female,Fracture,ICU,2023-10-18,2023-10-25,55583,Recovered
+1331,53,Female,Asthma,Cardiology,2023-09-20,2023-09-23,43392,Recovered
+1332,60,Male,COVID-19,ICU,2023-03-26,2023-04-09,12461,Recovered
+1333,63,Female,Diabetes,ICU,2023-05-26,2023-06-05,105123,Deceased
+1334,85,Male,Diabetes,Orthopedics,2023-11-19,2023-12-05,15516,Under Treatment
+1335,32,Female,COVID-19,General Medicine,2023-02-11,2023-02-27,153586,Deceased
+1336,87,Female,Fracture,Neurology,2023-05-05,2023-05-15,126251,Recovered
+1337,33,Female,Cancer,General Medicine,2023-06-16,2023-06-29,172340,Under Treatment
+1338,67,Female,Cancer,Orthopedics,2023-08-29,2023-09-04,172860,Deceased
+1339,18,Female,Cancer,Orthopedics,2023-10-07,2023-10-19,197121,Recovered
+1340,25,Male,Fracture,Orthopedics,2023-07-07,2023-07-16,67493,Recovered
+1341,54,Male,Fracture,Cardiology,2023-10-29,2023-11-11,41027,Deceased
+1342,58,Female,COVID-19,General Medicine,2023-01-19,2023-01-23,98547,Deceased
+1343,67,Female,Diabetes,General Medicine,2023-03-09,2023-03-20,178921,Deceased
+1344,46,Male,COVID-19,ICU,2023-08-06,2023-08-24,105127,Recovered
+1345,24,Female,COVID-19,ICU,2023-04-12,2023-04-23,153930,Deceased
+1346,32,Female,Fracture,ICU,2023-02-11,2023-02-15,84003,Recovered
+1347,47,Male,Cancer,Orthopedics,2023-10-15,2023-11-02,188467,Deceased
+1348,86,Female,Heart Disease,General Medicine,2023-06-16,2023-06-17,44758,Recovered
+1349,23,Female,Diabetes,Orthopedics,2023-04-19,2023-04-26,59312,Recovered
+1350,66,Male,Fracture,Cardiology,2023-02-05,2023-02-11,73670,Under Treatment
+1351,27,Male,Cancer,ICU,2023-08-20,2023-09-04,87279,Deceased
+1352,2,Male,Heart Disease,Orthopedics,2023-08-17,2023-09-04,20434,Deceased
+1353,17,Female,Heart Disease,Orthopedics,2023-12-19,2023-12-30,183847,Recovered
+1354,33,Male,Fracture,Cardiology,2023-06-13,2023-06-28,80769,Recovered
+1355,9,Male,Asthma,Neurology,2023-03-14,2023-03-30,71677,Recovered
+1356,43,Male,Diabetes,General Medicine,2023-05-16,2023-05-23,88555,Under Treatment
+1357,48,Male,Heart Disease,Neurology,2023-12-19,2023-12-29,133379,Under Treatment
+1358,39,Male,Fracture,ICU,2023-03-11,2023-03-23,181806,Recovered
+1359,42,Male,Fracture,Orthopedics,2023-07-15,2023-07-29,106665,Deceased
+1360,26,Female,Cancer,Cardiology,2023-09-26,2023-10-01,176675,Deceased
+1361,50,Female,Asthma,Cardiology,2023-02-18,2023-03-08,73803,Under Treatment
+1362,25,Male,Diabetes,General Medicine,2023-11-12,2023-11-17,175404,Under Treatment
+1363,24,Male,COVID-19,Neurology,2023-05-10,2023-05-13,96703,Recovered
+1364,13,Male,Cancer,General Medicine,2023-01-05,2023-01-10,26312,Deceased
+1365,60,Female,Heart Disease,Orthopedics,2023-01-27,2023-02-13,180251,Recovered
+1366,7,Female,Heart Disease,General Medicine,2023-06-09,2023-06-28,122961,Under Treatment
+1367,57,Female,Cancer,Cardiology,2023-05-29,2023-06-17,45379,Deceased
+1368,36,Female,Fracture,Cardiology,2023-09-21,2023-10-03,22297,Deceased
+1369,45,Female,Heart Disease,ICU,2023-08-18,2023-08-27,7011,Under Treatment
+1370,20,Female,Asthma,ICU,2023-07-19,2023-07-20,125234,Recovered
+1371,65,Female,Diabetes,Orthopedics,2023-02-19,2023-03-09,49014,Recovered
+1372,8,Female,Asthma,Neurology,2023-03-08,2023-03-12,147810,Deceased
+1373,16,Female,Heart Disease,General Medicine,2023-10-27,2023-11-06,99333,Under Treatment
+1374,14,Male,COVID-19,Orthopedics,2023-02-27,2023-03-06,183570,Deceased
+1375,76,Male,Diabetes,ICU,2023-09-16,2023-09-17,16120,Under Treatment
+1376,87,Male,Diabetes,General Medicine,2023-12-08,2023-12-25,144839,Recovered
+1377,15,Male,Cancer,ICU,2023-11-22,2023-11-24,27852,Under Treatment
+1378,66,Female,Cancer,General Medicine,2023-05-10,2023-05-21,84239,Recovered
+1379,32,Female,COVID-19,Neurology,2023-08-03,2023-08-12,137001,Under Treatment
+1380,87,Male,Fracture,Orthopedics,2023-06-21,2023-06-28,96575,Deceased
+1381,63,Female,Diabetes,General Medicine,2023-09-15,2023-10-02,100040,Recovered
+1382,86,Male,COVID-19,Cardiology,2023-04-12,2023-04-29,153510,Deceased
+1383,51,Female,Cancer,Cardiology,2023-07-28,2023-07-30,184587,Deceased
+1384,25,Male,Cancer,General Medicine,2023-10-18,2023-10-24,10744,Recovered
+1385,58,Female,Diabetes,General Medicine,2023-12-20,2024-01-03,178489,Recovered
+1386,63,Female,Asthma,General Medicine,2023-10-13,2023-10-19,143141,Deceased
+1387,62,Male,Heart Disease,Cardiology,2023-04-26,2023-04-28,47359,Deceased
+1388,22,Female,Cancer,Cardiology,2023-09-21,2023-09-22,155871,Deceased
+1389,58,Male,Fracture,General Medicine,2023-05-30,2023-06-09,103746,Deceased
+1390,58,Male,Fracture,ICU,2023-10-27,2023-11-01,125906,Recovered
+1391,86,Male,Cancer,ICU,2023-02-05,2023-02-07,12597,Recovered
+1392,49,Male,Asthma,Neurology,2023-11-29,2023-12-15,52093,Deceased
+1393,52,Female,Asthma,Orthopedics,2023-10-14,2023-10-16,173298,Under Treatment
+1394,42,Female,COVID-19,ICU,2023-10-30,2023-11-09,119650,Under Treatment
+1395,70,Female,Fracture,Cardiology,2023-11-07,2023-11-09,162489,Recovered
+1396,15,Male,COVID-19,ICU,2023-07-27,2023-08-12,154765,Deceased
+1397,54,Female,Fracture,Neurology,2023-04-16,2023-05-02,125956,Deceased
+1398,60,Male,Heart Disease,Neurology,2023-06-07,2023-06-26,120598,Recovered
+1399,8,Female,Heart Disease,Orthopedics,2023-05-01,2023-05-08,189233,Under Treatment
+1400,53,Female,Diabetes,ICU,2023-02-24,2023-03-08,138241,Under Treatment
+1401,60,Female,COVID-19,Cardiology,2023-01-12,2023-01-27,158124,Under Treatment
+1402,5,Male,Cancer,Cardiology,2023-05-25,2023-06-02,13036,Recovered
+1403,68,Female,COVID-19,General Medicine,2023-05-16,2023-05-22,36778,Under Treatment
+1404,6,Female,Cancer,Cardiology,2023-01-03,2023-01-13,163806,Recovered
+1405,47,Male,Asthma,Orthopedics,2023-05-24,2023-05-27,159245,Recovered
+1406,55,Female,COVID-19,Orthopedics,2023-01-30,2023-02-18,166475,Deceased
+1407,40,Male,Asthma,Cardiology,2023-08-25,2023-09-11,142416,Under Treatment
+1408,52,Female,Heart Disease,Cardiology,2023-10-06,2023-10-13,23800,Recovered
+1409,16,Male,Heart Disease,General Medicine,2023-12-14,2023-12-18,30372,Under Treatment
+1410,13,Male,Diabetes,Cardiology,2023-04-25,2023-05-09,66516,Under Treatment
+1411,30,Female,COVID-19,General Medicine,2023-04-14,2023-04-29,25538,Deceased
+1412,19,Male,Asthma,General Medicine,2023-04-28,2023-05-06,68918,Under Treatment
+1413,17,Male,Cancer,Cardiology,2023-01-05,2023-01-20,151045,Deceased
+1414,63,Male,Heart Disease,Neurology,2023-12-26,2024-01-09,76155,Recovered
+1415,19,Male,Heart Disease,Neurology,2023-09-05,2023-09-14,64500,Under Treatment
+1416,58,Male,Cancer,General Medicine,2023-12-30,2024-01-07,172647,Recovered
+1417,55,Male,Asthma,Cardiology,2023-11-17,2023-12-04,178333,Under Treatment
+1418,62,Female,Asthma,Neurology,2023-05-01,2023-05-03,115659,Recovered
+1419,23,Male,COVID-19,Cardiology,2023-10-13,2023-10-16,32716,Under Treatment
+1420,9,Male,COVID-19,Cardiology,2023-05-29,2023-06-06,139308,Under Treatment
+1421,12,Female,Fracture,Cardiology,2023-03-25,2023-04-06,151920,Under Treatment
+1422,1,Female,Fracture,ICU,2023-08-19,2023-08-20,7352,Under Treatment
+1423,58,Female,Diabetes,Cardiology,2023-10-15,2023-10-25,138004,Under Treatment
+1424,1,Female,Heart Disease,ICU,2023-06-10,2023-06-13,81449,Under Treatment
+1425,34,Female,COVID-19,General Medicine,2023-09-29,2023-10-05,13556,Under Treatment
+1426,48,Female,Asthma,Neurology,2023-02-07,2023-02-14,91836,Under Treatment
+1427,89,Female,Cancer,Neurology,2023-08-14,2023-09-01,141570,Under Treatment
+1428,1,Male,Asthma,Neurology,2023-05-22,2023-06-02,55098,Recovered
+1429,16,Male,Heart Disease,Neurology,2023-10-19,2023-11-07,117169,Deceased
+1430,61,Female,Fracture,Neurology,2023-05-31,2023-06-05,145641,Under Treatment
+1431,64,Male,Asthma,Neurology,2023-04-24,2023-05-13,131060,Deceased
+1432,63,Male,Diabetes,Neurology,2023-08-25,2023-09-05,192954,Under Treatment
+1433,69,Male,Heart Disease,General Medicine,2023-03-07,2023-03-19,135544,Under Treatment
+1434,22,Female,Fracture,Cardiology,2023-12-27,2024-01-06,5340,Recovered
+1435,67,Female,Cancer,Orthopedics,2023-12-07,2023-12-15,180021,Recovered
+1436,76,Male,Fracture,ICU,2023-09-15,2023-09-24,87302,Deceased
+1437,26,Female,Diabetes,Orthopedics,2023-09-06,2023-09-10,198515,Recovered
+1438,16,Male,Heart Disease,Orthopedics,2023-11-27,2023-12-02,5138,Recovered
+1439,51,Male,Cancer,Cardiology,2023-11-19,2023-11-27,136430,Deceased
+1440,86,Male,Diabetes,Cardiology,2023-06-29,2023-07-08,124619,Recovered
+1441,57,Male,Fracture,Cardiology,2023-07-09,2023-07-24,90376,Under Treatment
+1442,29,Female,Diabetes,Neurology,2023-06-03,2023-06-18,104931,Deceased
+1443,78,Female,Heart Disease,General Medicine,2023-07-15,2023-07-31,166726,Deceased
+1444,69,Female,COVID-19,Neurology,2023-11-07,2023-11-21,161951,Under Treatment
+1445,47,Male,Diabetes,General Medicine,2023-09-19,2023-09-27,86532,Recovered
+1446,62,Female,Diabetes,General Medicine,2023-05-23,2023-06-10,60778,Deceased
+1447,69,Male,Fracture,Orthopedics,2023-12-08,2023-12-18,42772,Deceased
+1448,76,Female,Fracture,Orthopedics,2023-11-12,2023-11-18,63478,Under Treatment
+1449,16,Male,Cancer,General Medicine,2023-04-11,2023-04-23,31762,Under Treatment
+1450,48,Male,Fracture,General Medicine,2023-09-01,2023-09-03,149355,Recovered
+1451,85,Male,Asthma,Neurology,2023-01-12,2023-01-19,199994,Deceased
+1452,39,Female,Heart Disease,Neurology,2023-08-27,2023-09-12,175492,Recovered
+1453,33,Female,Heart Disease,Orthopedics,2023-02-18,2023-02-21,60568,Recovered
+1454,23,Female,COVID-19,Cardiology,2023-02-11,2023-02-24,90090,Under Treatment
+1455,10,Female,COVID-19,General Medicine,2023-06-15,2023-06-18,25219,Deceased
+1456,69,Male,Heart Disease,Neurology,2023-03-23,2023-04-10,62169,Deceased
+1457,34,Female,COVID-19,Orthopedics,2023-10-18,2023-10-29,79965,Deceased
+1458,52,Female,Cancer,Neurology,2023-06-07,2023-06-15,182912,Under Treatment
+1459,10,Male,Fracture,General Medicine,2023-08-04,2023-08-10,180767,Under Treatment
+1460,19,Male,Heart Disease,General Medicine,2023-06-07,2023-06-08,89754,Under Treatment
+1461,58,Male,COVID-19,ICU,2023-05-14,2023-05-15,82988,Under Treatment
+1462,1,Female,Heart Disease,Cardiology,2023-03-08,2023-03-16,194414,Under Treatment
+1463,69,Male,Asthma,ICU,2023-12-02,2023-12-07,155023,Deceased
+1464,4,Male,Diabetes,Orthopedics,2023-01-07,2023-01-23,137379,Recovered
+1465,16,Male,Fracture,Neurology,2023-01-14,2023-01-25,85388,Deceased
+1466,24,Female,Heart Disease,Orthopedics,2023-03-14,2023-03-19,95768,Recovered
+1467,80,Male,Diabetes,General Medicine,2023-06-12,2023-06-16,40428,Under Treatment
+1468,2,Female,COVID-19,ICU,2023-03-07,2023-03-13,97021,Recovered
+1469,32,Female,Diabetes,ICU,2023-12-13,2023-12-27,123418,Deceased
+1470,84,Male,Fracture,ICU,2023-05-10,2023-05-29,175047,Deceased
+1471,24,Male,Heart Disease,Orthopedics,2023-07-25,2023-08-03,137212,Recovered
+1472,12,Female,Asthma,General Medicine,2023-10-03,2023-10-15,160914,Under Treatment
+1473,50,Male,COVID-19,Neurology,2023-09-13,2023-09-24,31421,Under Treatment
+1474,35,Male,Heart Disease,Neurology,2023-09-23,2023-10-07,6708,Deceased
+1475,33,Female,Fracture,Orthopedics,2023-01-25,2023-02-10,139702,Recovered
+1476,33,Female,COVID-19,ICU,2023-10-08,2023-10-09,155667,Under Treatment
+1477,61,Male,Cancer,Cardiology,2023-09-10,2023-09-23,81021,Under Treatment
+1478,51,Female,Diabetes,Orthopedics,2023-11-06,2023-11-19,164380,Deceased
+1479,43,Male,Fracture,Orthopedics,2023-10-16,2023-10-18,49789,Under Treatment
+1480,12,Male,Cancer,General Medicine,2023-06-13,2023-06-17,191762,Recovered
+1481,67,Male,Heart Disease,Neurology,2023-04-05,2023-04-11,31086,Deceased
+1482,65,Female,Asthma,Orthopedics,2023-09-27,2023-10-02,21859,Deceased
+1483,33,Male,COVID-19,Orthopedics,2023-11-17,2023-11-20,12684,Recovered
+1484,40,Male,Diabetes,ICU,2023-04-20,2023-04-21,96088,Deceased
+1485,74,Male,COVID-19,ICU,2023-12-02,2023-12-06,137279,Under Treatment
+1486,43,Female,Heart Disease,Cardiology,2023-11-06,2023-11-08,51099,Under Treatment
+1487,44,Female,COVID-19,General Medicine,2023-08-26,2023-08-31,71093,Recovered
+1488,29,Female,Diabetes,Cardiology,2023-01-25,2023-01-28,165761,Under Treatment
+1489,13,Female,Heart Disease,ICU,2023-05-21,2023-05-30,53651,Recovered
+1490,12,Female,COVID-19,Neurology,2023-04-27,2023-05-03,18893,Recovered
+1491,46,Male,Asthma,ICU,2023-01-25,2023-02-12,71418,Under Treatment
+1492,2,Female,Fracture,General Medicine,2023-03-20,2023-03-26,130074,Recovered
+1493,35,Female,Heart Disease,ICU,2023-03-09,2023-03-28,108065,Under Treatment
+1494,87,Female,Fracture,General Medicine,2023-06-22,2023-07-04,135351,Deceased
+1495,81,Male,Heart Disease,General Medicine,2023-01-12,2023-01-23,196083,Deceased
+1496,8,Female,Asthma,General Medicine,2023-10-15,2023-10-17,43635,Recovered
+1497,26,Female,Fracture,General Medicine,2023-05-08,2023-05-23,192187,Under Treatment
+1498,74,Male,Cancer,General Medicine,2023-04-06,2023-04-18,100071,Under Treatment
+1499,34,Female,Diabetes,Neurology,2023-04-02,2023-04-14,83518,Deceased
+1500,7,Male,Cancer,Cardiology,2023-05-21,2023-05-30,111233,Deceased
